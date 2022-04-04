@@ -30,4 +30,3 @@ ITA21
 
 * Suured tänud pildiloojatele.
 * Mentor - Margus Treumuth
-* 
