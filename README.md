@@ -19,6 +19,7 @@ Lae alla failid GitHubist, Kui on PyGame allalaetud, siis on võimalik mängu al
 ## Mida me kasutasime mängu tegemisel.
 
 PyCharm - koodi kirjutamiseks.
+
 Pildid - Osad ise tehtud, osad internetist võetud.
 
 ## Koodi kirjutajad
